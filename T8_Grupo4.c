@@ -21,8 +21,6 @@ no arquivo “carro.ord”.
 */
 
 
-
-
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
